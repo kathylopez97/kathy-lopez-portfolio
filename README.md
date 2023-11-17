@@ -41,7 +41,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 VS Code
 
 ## Links 
-[The URL of the deployed application]()
+[The URL of the deployed application](https://kathylopez97.github.io/kathy-lopez-portfolio/)
 
 [THE URL of the Github repository](https://github.com/kathylopez97/media-magic)
 
