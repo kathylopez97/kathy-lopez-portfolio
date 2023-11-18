@@ -25,10 +25,10 @@ VS Code
 [The URL of the deployed application] (https://kathylopez97.github.io/kathy-lopez-portfolio/)
 
 
-[THE URL of the Github repository](https://github.com/kathylopez97/kathy-lopez-portfolio/tree/main)
+![THE URL of the Github repository](https://github.com/kathylopez97/kathy-lopez-portfolio/tree/main)
 
 ## Screenshot
-![Kathy Lopez Portfolio](kathy-lopez-portfolio.png))
+![Kathy Lopez Portfolio](kathy-lopez-portfolio.png)
 ## Credits
  https://www.youtube.com
 
@@ -37,3 +37,4 @@ https://www.w3schools.com
 
 ## Features
 - CSS
+- VS Code
