@@ -1,5 +1,4 @@
 # kathy-lopez-portfolio
-# Media-Magic
   Horison is a website that describe the information of media and provides guidance to social media marketing.
 
 ## Description
@@ -22,13 +21,14 @@
 VS Code
 
 ## Links 
+
 [The URL of the deployed application] (https://kathylopez97.github.io/kathy-lopez-portfolio/)
 
 
 [THE URL of the Github repository](https://github.com/kathylopez97/kathy-lopez-portfolio/tree/main)
 
 ## Screenshot
-![media]()
+![Kathy Lopez Portfolio](kathy-lopez-portfolio.png))
 ## Credits
  https://www.youtube.com
 
