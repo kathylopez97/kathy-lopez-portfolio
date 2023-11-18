@@ -62,10 +62,10 @@ VS Code
 
 ## Links
 
-![ [The URL of the deployed application](https://kathylopez97.github.io/kathy-lopez-portfolio/)
+[The URL of the deployed application](https://kathylopez97.github.io/kathy-lopez-portfolio/)
 
 
-![The URL of the Github repository](https://github.com/kathylopez97/kathy-lopez-portfolio/)
+[The URL of the Github repository](https://github.com/kathylopez97/kathy-lopez-portfolio/)
 
 ## Mock-up
 ![Kathy Lopez Portfolio](kathy-lopez-portfolio.png)
